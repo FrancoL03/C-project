@@ -1,0 +1,108 @@
+1  1581110579  Connection to SQL server established.
+ 
+2  1581110579  A sensor node with ID = 15 has opened a new connection
+ 
+3  1581110579  New table ’SensorData‘ created.
+ 
+4  1581110581  A sensor node with ID = 21 has opened a new connection
+ 
+5  1581110585  A sensor node with ID = 37 has opened a new connection
+ 
+6  1581110595  The sensor node with id = 15 reports it’s too hot (running avg temperature = 20.008899)
+ 
+7  1581110599  The sensor node with id = 15 reports it’s too hot (running avg temperature = 20.021080)
+ 
+8  1581110601  The sensor node with id = 37 reports it’s too hot (running avg temperature = 20.293061)
+ 
+9  1581110603  The sensor node with id = 15 reports it’s too hot (running avg temperature = 20.047947)
+ 
+10  1581110605  The sensor node with id = 37 reports it’s too hot (running avg temperature = 20.372869)
+ 
+11  1581110607  The sensor node with id = 15 reports it’s too hot (running avg temperature = 20.110966)
+ 
+12  1581110609  The sensor node with id = 37 reports it’s too hot (running avg temperature = 20.441845)
+ 
+13  1581110609  The sensor node with id = 21 reports it’s too hot (running avg temperature = 20.032946)
+ 
+14  1581110611  The sensor node with id = 15 reports it’s too hot (running avg temperature = 20.208957)
+ 
+15  1581110613  The sensor node with id = 37 reports it’s too hot (running avg temperature = 20.476906)
+ 
+16  1581110613  The sensor node with id = 21 reports it’s too hot (running avg temperature = 20.170499)
+ 
+17  1581110615  The sensor node with id = 15 reports it’s too hot (running avg temperature = 20.240566)
+ 
+18  1581110617  The sensor node with id = 37 reports it’s too hot (running avg temperature = 20.493583)
+ 
+19  1581110617  The sensor node with id = 21 reports it’s too hot (running avg temperature = 20.268269)
+ 
+20  1581110619  The sensor node with id = 15 reports it’s too hot (running avg temperature = 20.300043)
+ 
+21  1581110621  The sensor node with id = 37 reports it’s too hot (running avg temperature = 20.423674)
+ 
+22  1581110621  The sensor node with id = 21 reports it’s too hot (running avg temperature = 20.331746)
+ 
+23  1581110623  The sensor node with id = 15 reports it’s too hot (running avg temperature = 20.324516)
+ 
+24  1581110625  The sensor node with id = 37 reports it’s too hot (running avg temperature = 20.295150)
+ 
+25  1581110625  The sensor node with id = 21 reports it’s too hot (running avg temperature = 20.405062)
+ 
+26  1581110627  The sensor node with id = 15 reports it’s too hot (running avg temperature = 20.316191)
+ 
+27  1581110629  The sensor node with id = 37 reports it’s too hot (running avg temperature = 20.166155)
+ 
+28  1581110629  The sensor node with id = 21 reports it’s too hot (running avg temperature = 20.501255)
+ 
+29  1581110631  The sensor node with id = 15 reports it’s too hot (running avg temperature = 20.283841)
+ 
+30  1581110633  The sensor node with id = 37 reports it’s too hot (running avg temperature = 20.071381)
+ 
+31  1581110633  The sensor node with id = 21 reports it’s too hot (running avg temperature = 20.558892)
+ 
+32  1581110635  The sensor node with id = 15 reports it’s too hot (running avg temperature = 20.318514)
+ 
+33  1581110637  The sensor node with id = 37 reports it’s too hot (running avg temperature = 20.008994)
+ 
+34  1581110637  The sensor node with id = 21 reports it’s too hot (running avg temperature = 20.570629)
+ 
+35  1581110639  The sensor node with id = 15 reports it’s too hot (running avg temperature = 20.363368)
+ 
+36  1581110641  The sensor node with id = 21 reports it’s too hot (running avg temperature = 20.586867)
+ 
+37  1581110643  The sensor node with id = 15 reports it’s too hot (running avg temperature = 20.427542)
+ 
+38  1581110645  The sensor node with id = 21 reports it’s too hot (running avg temperature = 20.526427)
+ 
+39  1581110647  The sensor node with id = 15 reports it’s too hot (running avg temperature = 20.495812)
+ 
+40  1581110649  The sensor node with id = 21 reports it’s too hot (running avg temperature = 20.418234)
+ 
+41  1581110651  The sensor node with id = 15 reports it’s too hot (running avg temperature = 20.537062)
+ 
+42  1581110653  The sensor node with id = 21 reports it’s too hot (running avg temperature = 20.340425)
+ 
+43  1581110655  The sensor node with id = 15 reports it’s too hot (running avg temperature = 20.572400)
+ 
+44  1581110657  The sensor node with id = 21 reports it’s too hot (running avg temperature = 20.256887)
+ 
+45  1581110659  The sensor node with id = 15 reports it’s too hot (running avg temperature = 20.588846)
+ 
+46  1581110661  The sensor node with id = 21 reports it’s too hot (running avg temperature = 20.112349)
+ 
+47  1581110663  The sensor node with id = 15 reports it’s too hot (running avg temperature = 20.627596)
+ 
+48  1581110667  The sensor node with id = 15 reports it’s too hot (running avg temperature = 20.692884)
+ 
+49  1581110671  The sensor node with id = 15 reports it’s too hot (running avg temperature = 20.746672)
+ 
+50  1581110675  A sensor node with ID = 21 has closed the connection.
+ 
+51  1581110675  The sensor node with id = 15 reports it’s too hot (running avg temperature = 20.724916)
+ 
+52  1581110679  The sensor node with id = 15 reports it’s too hot (running avg temperature = 20.677281)
+ 
+53  1581110685  A sensor node with ID = 15 has closed the connection.
+ 
+54  1581110696  A sensor node with ID = 37 has closed the connection.
+ 
